@@ -1,5 +1,7 @@
 # Image Fusion
 
+## 原论文：TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network
+
 ### images里是训练与测试文件夹，训练集我应该放了154对图片
 
 ### models里是作者的预训练权重下载路径
